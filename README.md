@@ -1,4 +1,4 @@
-# 🇺🇸 US States Population Dashboard
+#  US States Population Dashboard
 
 An interactive Power BI dashboard that visualizes population statistics across U.S. states. The dashboard allows users to explore how population is distributed regionally, view top/bottom states by population, and gain insights using maps and filters.
 
